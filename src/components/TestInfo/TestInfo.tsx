@@ -1,5 +1,5 @@
 import React from "react";
-import "./Button.css";
+import "./TestInfo.css";
 
 export interface ITestInfo {
   label: string;
